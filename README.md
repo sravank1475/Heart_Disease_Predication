@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Heart-Disease-Predictor-using-Artificial-Neural-Networks
 
 ## Abstract
@@ -15,3 +16,6 @@
 
 https://heartdiseasepredictor04.herokuapp.com/
 https://firearmrights.ca/wp-content/uploads/1457378853878.jpg
+=======
+# Heart_Disease_Predication
+>>>>>>> 0757299a4b87c6b423042e786ac7664b19f9650b
