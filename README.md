@@ -14,3 +14,4 @@
 ## LIVE DEMO
 
 https://heartdiseasepredictor04.herokuapp.com/
+https://firearmrights.ca/wp-content/uploads/1457378853878.jpg

@@ -1,9 +1,4 @@
 
-"""
-Created on sat oct 20:45:05 2020
-
-@author: suhas
-"""
 
 import numpy as np
 from tensorflow.keras.models import load_model
